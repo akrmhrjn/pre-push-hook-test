@@ -1,3 +1,3 @@
 # pre-push-hook-test
 
-# first push test 1
+# first push test
